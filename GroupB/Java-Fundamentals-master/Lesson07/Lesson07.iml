@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Activity27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Activity28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Activity29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Activity30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Activity31" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise24" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SharedClasses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snippet001_Comparable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snippet001_Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snippet001_Iterators_and_Iterable" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
