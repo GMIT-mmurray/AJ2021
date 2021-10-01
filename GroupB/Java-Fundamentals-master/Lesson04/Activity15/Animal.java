@@ -1,9 +1,33 @@
 public class Animal {
-  int legs;
-  int ears;
-  int eyes;
-  String family;
-  String name;
+  private int legs;
+  private int ears;
+  private int eyes;
+  private String family;
+  private String name;
+
+  public int getLegs() {
+    return legs;
+  }
+
+  public void setLegs(int legs) {
+    this.legs = legs;
+  }
+
+  public int getEars() {
+    return ears;
+  }
+
+  public void setEars(int ears) {
+    this.ears = ears;
+  }
+
+  public int getEyes() {
+    return eyes;
+  }
+
+  public void setEyes(int eyes) {
+    this.eyes = eyes;
+  }
 
   public Animal() {
     this(4, 2, 2);
@@ -32,23 +56,6 @@ public class Animal {
     this.name = name;
   }
 
-  public static void main(String[] args) {
-    Animal cow = new Animal();
-    Animal goat = new Animal();
-    Animal duck = new Animal(2, 2, 2);
 
-    cow.setName("Cow");
-    cow.setFamily("Bovidae");
-
-    goat.setName("Goat");
-    goat.setFamily("Bovidae");
-
-    duck.setName("Duck");
-    duck.setFamily("Anatidae");
-
-    System.out.println(cow.getName());
-    System.out.println(goat.getName());
-    System.out.println(duck.getFamily());
-  }
 
 }
